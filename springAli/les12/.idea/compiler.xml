@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springAli" />
+        <module name="les4" />
+        <module name="les10" />
+        <module name="les5" />
+        <module name="les2" />
+        <module name="les12" />
+        <module name="les11" />
+        <module name="les8" />
+        <module name="les9" />
+        <module name="les6" />
+        <module name="les7" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
